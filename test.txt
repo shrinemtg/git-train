@@ -1,1 +1,8 @@
 test
+git操作の基本
+その１ add
+その２
+git commit
+その３
+git push
+
